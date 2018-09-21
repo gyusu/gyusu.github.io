@@ -26,7 +26,13 @@ tags: [CV]
      
 ## Interests
 * Deep learning, Data Analysis, System Trading
-    
+
+## Skills
+* Python
+* C
+* Korean - Native
+* English - intermediate
+
 ## Publication    
   * [[1]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07503227) Y.Cho, G.Han, H.Lee, _Character Level Bi-Directional LSTM-CNN Model for Movie Rating Prediction_, 한국정보과학회 학술발표논문집, 2018
 
@@ -35,14 +41,7 @@ tags: [CV]
 * [Creon-Datareader](https://github.com/gyusu/Creon-Datareader)
 * [Neural-Net-for-Bitcoin-Price-Up-Down-Prediction](https://github.com/gyusu/Neural-Net-for-Bitcoin-Price-Up-Down-Prediction)
 
-## Skills
-* Python
-* C
-* Korean - Native
-* English - intermediate
-
 ## Awards / Participation
-
 * [2018 POSCO Industrial - AI Solution Challenge(Swell Prediction)](https://posco-aichallenge.kr/) (1st prize)
   * East Sea Swell Prediction using RSCNN(Random Suffled Convolutional Neural Network)
   * ![posco_award](/img/posco_award.jpg){: width="250"}
@@ -53,9 +52,6 @@ tags: [CV]
   * data preprocessing, modeling(LSTM, CNN)
   * [https://github.com/nomorecoke/naver-AI-final](https://github.com/nomorecoke/naver-AI-final)
    -> [Model detail with my paper](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07503227)
-* 2018 SK T&B code challenge (16th)
-  * Movie recommendation
-  * Collarborative filtering
 
 
 <!--
