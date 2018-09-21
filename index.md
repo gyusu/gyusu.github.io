@@ -52,7 +52,9 @@ tags: [CV]
   * data preprocessing, modeling(LSTM, CNN)
   * [https://github.com/nomorecoke/naver-AI-final](https://github.com/nomorecoke/naver-AI-final)
    -> [Model detail with my paper](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07503227)
-
+* 2018 SK T&B code challenge (16th)
+  * Movie recommendation
+  * Collarborative filtering
 
 <!--
 Here's a useless table:
