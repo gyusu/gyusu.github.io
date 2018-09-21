@@ -1,6 +1,6 @@
 ---
 #layout: post
-title: Welcome to My CV
+title: Gyusu Han
 #subtitle: Yong-woo Cho
 
 tags: [CV]
@@ -15,63 +15,44 @@ tags: [CV]
 
 ## Profile 
 ![Profile picture](/img/profile.jpg){: width="250"}  
-* Yongwoo Cho (조용우)
-* 1993-11-10  
-* Traveling  
-* Swimming  
-* Drinking Zero-coke 
+* Gyusu Han (한규수)
+* 1993-12-28
 
 &nbsp;
 ## Education
 #### Sogang University    
-   * B.S in Computer Science and Engineering (Mar 2012 - Feb 2017)
-     * 3.57 /4.5 (Cum laude)  
-     * T.A scholarship 2015 - 2016    
-
-   * M.S in [Embedded Computing Laboratory](http://ecl.sogang.ac.kr) (Mar 2017 - Feb 2019 expecting) 
-     * 4.26 /4.5
-     
+   * B.S in Computer Science and Engineering (Mar 2012 - Feb 2019 Expected)  
+     B.A in Economics (Mar 2012 - Feb 2019 Expected)
+     * 3.95 /4.5
 &nbsp;
 
-## Interests 
-#### Current
-* Machine learning, Data Analysis, System Trading   
-     
-#### Old
-* Computer Architecture, IoT, Cache Memory   
+## Interests
+* Deep learning, Data Analysis, System Trading
     
 &nbsp;   
 ## Publication    
-  * [4] Memory bottleneck analysis in Large Machine learning models, work in progress
-  
-  * [3] B.Kim, Y.Cho, H.Lee, Shared Last-Level Cache Managemnet Scheme for Multimedia IPs in Handheld platform, work in progress
-  
-  * [[2]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07503227) Y.Cho, G.Han, H.Lee, _Character Level Bi-Directional LSTM-CNN Model for Movie Rating Prediction_, 한국정보과학회 학술발표논문집, 2018
-  
-  * [[1]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07116284) Y.Cho, G.Kim, _Acquisition and Analysis of Multi-Point Temperature Data from Public Computer Labs for Designing Pleasant and Energy-Efficient Air Conditioning Rules_,  한국정보과학회 학술발표논문집, 2016  
+  * [[1]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07503227) Y.Cho, G.Han, H.Lee, _Character Level Bi-Directional LSTM-CNN Model for Movie Rating Prediction_, 한국정보과학회 학술발표논문집, 2018
+&nbsp;
 
-&nbsp;   
 
 ## Projects
-* Arduino for analysis Temperature data
-* [MacSim](http://comparch.gatech.edu/hparch/macsim.html) for cache memory mangement 
-* [Gem5 Simulator](http://gem5.org/Main_Page) for multimedia IP cache memory management scheme
-* Tensorflow, Keras for memory bottleneck analysis  
-* [System trader](https://github.com/nomorecoke/System-Trading) with kiwoom API (personal project)
+* [Policy_Gradient_ETF_Portfolio_Manager](https://github.com/gyusu/Policy_Gradient_ETF_Portfolio_Manager)
+* [Creon-Datareader](https://github.com/gyusu/Creon-Datareader)
+* [Neural-Net-for-Bitcoin-Price-Up-Down-Prediction](https://github.com/gyusu/Neural-Net-for-Bitcoin-Price-Up-Down-Prediction)
+&nbsp;
 
-&nbsp;   
-
-## Skills  
+## Skills
 * Python
-* C/C++
-* Lua for Arduino
+* C
 * Korean - Native
-* English - intermediate  
-
-&nbsp;  
+* English - intermediate
+&nbsp;
 
 ## Awards / Participation
-![Profile picture](/img/samsung-award.jpg){: width="250"}  
+![Profile picture](/img/posco-award.jpg){: width="250"}
+* [2018 POSCO Industrial - AI Solution Challenge(Swell Prediction)](https://posco-aichallenge.kr/) (1st prize)
+  * East Sea Swell Prediction using RSCNN(Random Suffled Convolutional Neural Network)
+![Profile picture](/img/samsung-award.jpg){: width="250"}
 * [2018 SAMSUNG AI Challenge - Data Challenge](https://research.samsung.com/aichallenge/data) (1st prize)
   * Predict missing data with NMDAE(NaN Mask Denoising Auto Encoder)
 * [2018 Naver AI hackerton - movie rating prediction](https://github.com/naver/ai-hackathon-2018) (2nd prize)
@@ -81,18 +62,7 @@ tags: [CV]
 * 2018 SK T&B code challenge (16th)
   * Movie recommendation
   * Collarborative filtering
-  
-* SOSCON(Samsung Open Source CONference) 2016 HACKATHON (2nd prize)
-  * Arduino, Raspberry PI 
-* Sogang Univ. 4th start-up weekend (7th)
-  * Android App  
-* 2016 Sogang Univ. LINC technology competition (2nd prize)
-  * Arduino
 
-
-* In progress
-  * [POSCO AI Challenge](https://www.posco-aichallenge.kr/project/p02/)
-  
 &nbsp;     
 
 
